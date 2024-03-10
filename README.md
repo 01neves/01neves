@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Loading Dev Full Stack 💻 <br><br> Estudante em processo de aprenizado focado em dev full stack, principalmente em Js, CSS, Html.
+<p align="center">Loading Dev Full Stack 💻 <br><br> Estudante em processo de aprenizado focado em dev full stack, principalmente em Js, CSS, C# e TypeScript
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=01neves&theme=radical&mode=weekly" />
